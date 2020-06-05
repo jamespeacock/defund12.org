@@ -26,6 +26,10 @@ defaults:
 permalink: pretty
 subtitle: Email government officials and council members to reallocate egregious police
   budgets towards education, social services, and dismantling racial inequality.
+mission: DEMAND YOUR LOCAL OFFICIALS TAKE THE PLEDGE TO...
+  - Vote no on all increases to police budgets
+  - Vote yes to decrease police spending and budgets
+  - Vote yes to increase spending on Health care, education and community programs that keep us safe.
 meta: Email government officials and council members to reallocate police budgets
   towards education, social services, and dismantling racial inequality.
 footer_text: Want to add your city? [Open a request.](https://github.com/teddywilson/defund12.org/issues)
